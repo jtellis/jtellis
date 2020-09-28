@@ -11,7 +11,7 @@ I always approach my work with curiosity, respect and an open mind.
 
 Some things I’m currently working with or would like to work with again are JavaScript, Python, C & C++, HTML & CSS, React, Web Components, XState & statecharts, Adobe Illustrator & XD, GIS, PostgreSQL, virtualization and system security.
 
-Recently, I have been learning Haskell, and I feel my mind expanding (*exploding*) each day.
+Right now, I'm working on a version of the card game [blackjack (21)](https://github.com/jtellis/blackjack) written in Haskell to practice functional programming.
 
 Extracurriculars I get excited about include vegan cooking, running, biking, watching something from The Criterion Collection and civic engagement through [Code for America](https://www.codeforamerica.org/). I also have 3 dogs that are probably staring at me as we speak.
 
