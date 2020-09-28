@@ -1,4 +1,4 @@
-# Greetings! Jesse T. Ellis here! 👋🏼
+# Greetings! Jesse T. Ellis here! 👋
 
 ## A bit about myself? Well, if you insist…
 
