@@ -12,6 +12,8 @@ Some things I’m currently working with or would like to work with again are Ja
 
 * 🃏 I'm curently working on a version of the card game [blackjack (21)](https://github.com/jtellis/blackjack) written in Haskell to practice functional programming.
 
+* 📖 I'm also making my way through [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) book. I became interested in the Rust type system through my study of Haskell, but practically, my goal is to target WebAssembly compiliation. I'm keeping my progress in [this repo](https://github.com/jtellis/rust-book-exercises).
+
 ***
 
 Extracurriculars I get excited about include vegan cooking, running, biking, watching something from The Criterion Collection and civic engagement through [Code for America](https://www.codeforamerica.org/). I also have 3 dogs that are probably staring at me as we speak.
