@@ -2,7 +2,7 @@
 
 ## A bit about myself
 
-I'm a full-stack developer with a focus on the frontend. I feel at home with multidisciplinary teams striving to make an impactful result for their products, their clients or their communities. I have worked with academic institutions, non-profit organizations, start-up and long established companies. I approach my work with a spirit of challenge and determination.
+I'm at home in fast paced multidisciplinary teams striving to make an impact. I have worked with academic institutions, non-profit organizations, start-up and long established companies. I approach my work with a spirit of challenge and determination.
 
 ## Projects
 
@@ -18,6 +18,6 @@ I'm a full-stack developer with a focus on the frontend. I feel at home with mul
 
 ***
 
-When I'm not hacking away, I'm most likely bird watching, learning about and spending time in nature, running, biking, baking or watching an old movie. I have two dogs that love camping and reminding me when it's lunch time.
+When I'm not coding away, I'm usually bird watching, learning about and spending time in nature, exercising, baking or watching an old movie. I have two dogs that remind me to never take it all too seriously.
 
 Drop me a line. Cheers! ☕
